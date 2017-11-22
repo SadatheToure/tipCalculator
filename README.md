@@ -20,4 +20,4 @@ Added background image for aesthetics
 
 Video Walkthrough
 
-[](https://github.com/SadatheToure/tipCalculator/blob/master/TipCalc.gif)
+![](https://github.com/SadatheToure/tipCalculator/blob/master/TipCalc.gif)
